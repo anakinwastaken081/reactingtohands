@@ -40,6 +40,7 @@ Run it:
 bash
    python webcam_test.py
 Press q to quit.
+
 Known limitations / next steps
 Single 2D camera limits gesture precision to the image plane; no true depth
 Wave detection threshold is tuned by eye, not auto-calibrated per user
